@@ -43,13 +43,16 @@
 
 ## 📊 GitHub Stats
 
-<details>
+![minoltan](https://github-readme-stats-eight-theta.vercel.app/api?username=minoltan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues)
+
+
+<!-- <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=minoltan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minoltan&theme=tokyonight"/>
-</details>
+</details> -->
 
 <details>
   <summary>🧠 My Top Languages</summary>
